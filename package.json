@@ -19,7 +19,7 @@
         "lint": "eslint ./"
     },
     "dependencies": {
-        "react-native-root-modal": "*"
+        "react-native-root-modal": "https://github.com/cnabs/react-native-root-modal.git"
     },
     "peerDependencies": {
         "prop-types": "^15.5.8"
